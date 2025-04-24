@@ -1,4 +1,3 @@
 Esta es la línea modificada en master.
 
-
-Segunda linea del README
+Esta es la línea modificada en rama1.
