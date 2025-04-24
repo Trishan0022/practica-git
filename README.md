@@ -1,3 +1,3 @@
-Esta es la línea inicial del README
+Esta es la línea modificada en rama1.
 
 Segunda linea del README
